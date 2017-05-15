@@ -1,5 +1,5 @@
 # profitneed
-Blog developement
-Contributors:
-Front-end; christiantorb
+Blog developement <br>
+Contributors: <br>
+Front-end; christiantorb <br>
 Back-end; Henduww
