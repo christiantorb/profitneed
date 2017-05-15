@@ -1,5 +1,5 @@
 # profitneed
 Blog developement
 Contributors:
-Front-end; Christian Torblå
-Back-end; Tommy Rene Sætre
+Front-end; christiantorb
+Back-end; Henduww
